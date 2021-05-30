@@ -1,0 +1,12 @@
+#myVideo {
+    position: absolute;
+    z-index: -20;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 2%;
+}
+
+.bg-gray-200 {
+    z-index: -100;
+}
